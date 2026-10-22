@@ -1,0 +1,22 @@
+# Rejected / draft image generations (only APPROVED images are tracked)
+* v[0-9]*.png
+* v[0-9]* - *.png
+* - 2x1.png
+* - raw *.png
+*raw 16x9*
+*raw 21x9*
+*_preview.png
+*_gutter.png
+
+# Temp / scratch files
+*.tmp
+*.bak
+~$*
+.~lock*
+scratch/
+scratchpad/
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+.DS_Store
